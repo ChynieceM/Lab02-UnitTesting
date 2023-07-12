@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\Lab02-UnitTesting\\Lab02-UnitTesting\\Lab02-UnitTesting.csproj": {}
+    "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\Lab02-UnitTesting\\Lab02-UnitTesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\Lab02-UnitTesting\\Lab02-UnitTesting\\Lab02-UnitTesting.csproj": {
+    "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\Lab02-UnitTesting\\Lab02-UnitTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\Lab02-UnitTesting\\Lab02-UnitTesting\\Lab02-UnitTesting.csproj",
+        "projectUniqueName": "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\Lab02-UnitTesting\\Lab02-UnitTesting.csproj",
         "projectName": "Lab02-UnitTesting",
-        "projectPath": "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\Lab02-UnitTesting\\Lab02-UnitTesting\\Lab02-UnitTesting.csproj",
+        "projectPath": "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\Lab02-UnitTesting\\Lab02-UnitTesting.csproj",
         "packagesPath": "C:\\Users\\Student-18\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\Lab02-UnitTesting\\Lab02-UnitTesting\\obj\\",
+        "outputPath": "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\Lab02-UnitTesting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,18 +44,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[17.6.3, )"
-            },
-            "xunit.runner.visualstudio": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.5.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

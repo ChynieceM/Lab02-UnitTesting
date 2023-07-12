@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B7BjXMUAD8Zum9lDJ3S6A4YiDZB1TzzZsxzDF75CwXNQzq81HbsrOF2GBWCJI2ghS3p2k9y9cDUPxuh7BibaTg==",
+  "dgSpecHash": "5xLhC4VF9duPS/+ZVM7rBUSyKSbPRy6+Q3nURFvPS2B8EFxVOazGIHryUL+KBrxaVwhRaQi2kmwV4xg1rJiqpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\Lab02-UnitTesting\\ATMTest\\ATMTest.csproj",
+  "projectFilePath": "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\ATMTest\\ATMTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student-18\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Student-18\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

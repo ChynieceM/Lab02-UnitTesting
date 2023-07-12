@@ -1712,6 +1712,16 @@
         "build": {
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "Lab02-UnitTesting/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Lab02-UnitTesting.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab02-UnitTesting.dll": {}
+        }
       }
     }
   },
@@ -5506,10 +5516,16 @@
         "xunit.runner.visualstudio.2.4.5.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "Lab02-UnitTesting/1.0.0": {
+      "type": "project",
+      "path": "../Lab02-UnitTesting/Lab02-UnitTesting.csproj",
+      "msbuildProject": "../Lab02-UnitTesting/Lab02-UnitTesting.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Lab02-UnitTesting >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.5.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
@@ -5523,11 +5539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\Lab02-UnitTesting\\ATMTest\\ATMTest.csproj",
+      "projectUniqueName": "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\ATMTest\\ATMTest.csproj",
       "projectName": "ATMTest",
-      "projectPath": "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\Lab02-UnitTesting\\ATMTest\\ATMTest.csproj",
+      "projectPath": "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\ATMTest\\ATMTest.csproj",
       "packagesPath": "C:\\Users\\Student-18\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\Lab02-UnitTesting\\ATMTest\\obj\\",
+      "outputPath": "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\ATMTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5548,7 +5564,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\Lab02-UnitTesting\\Lab02-UnitTesting.csproj": {
+              "projectPath": "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\Lab02-UnitTesting\\Lab02-UnitTesting.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

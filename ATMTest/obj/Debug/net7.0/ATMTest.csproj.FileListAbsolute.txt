@@ -1,0 +1,5 @@
+C:\Users\Student-18\Documents\GitHub\Lab02-UnitTesting\ATMTest\obj\Debug\net7.0\ATMTest.csproj.AssemblyReference.cache
+C:\Users\Student-18\Documents\GitHub\Lab02-UnitTesting\ATMTest\obj\Debug\net7.0\ATMTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-18\Documents\GitHub\Lab02-UnitTesting\ATMTest\obj\Debug\net7.0\ATMTest.AssemblyInfoInputs.cache
+C:\Users\Student-18\Documents\GitHub\Lab02-UnitTesting\ATMTest\obj\Debug\net7.0\ATMTest.AssemblyInfo.cs
+C:\Users\Student-18\Documents\GitHub\Lab02-UnitTesting\ATMTest\obj\Debug\net7.0\ATMTest.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\Student-18\Documents\GitHub\Lab02-UnitTesting\Lab02-UnitTesting\obj\Debug\net7.0\Lab02-UnitTesting.csproj.AssemblyReference.cache
+C:\Users\Student-18\Documents\GitHub\Lab02-UnitTesting\Lab02-UnitTesting\obj\Debug\net7.0\Lab02-UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-18\Documents\GitHub\Lab02-UnitTesting\Lab02-UnitTesting\obj\Debug\net7.0\Lab02-UnitTesting.AssemblyInfoInputs.cache
+C:\Users\Student-18\Documents\GitHub\Lab02-UnitTesting\Lab02-UnitTesting\obj\Debug\net7.0\Lab02-UnitTesting.AssemblyInfo.cs
+C:\Users\Student-18\Documents\GitHub\Lab02-UnitTesting\Lab02-UnitTesting\obj\Debug\net7.0\Lab02-UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Student-18\Documents\GitHub\Lab02-UnitTesting\Lab02-UnitTesting\bin\Debug\net7.0\Lab02-UnitTesting.exe
+C:\Users\Student-18\Documents\GitHub\Lab02-UnitTesting\Lab02-UnitTesting\bin\Debug\net7.0\Lab02-UnitTesting.deps.json
+C:\Users\Student-18\Documents\GitHub\Lab02-UnitTesting\Lab02-UnitTesting\bin\Debug\net7.0\Lab02-UnitTesting.runtimeconfig.json
+C:\Users\Student-18\Documents\GitHub\Lab02-UnitTesting\Lab02-UnitTesting\bin\Debug\net7.0\Lab02-UnitTesting.dll
+C:\Users\Student-18\Documents\GitHub\Lab02-UnitTesting\Lab02-UnitTesting\bin\Debug\net7.0\Lab02-UnitTesting.pdb
+C:\Users\Student-18\Documents\GitHub\Lab02-UnitTesting\Lab02-UnitTesting\obj\Debug\net7.0\Lab02-UnitTesting.dll
+C:\Users\Student-18\Documents\GitHub\Lab02-UnitTesting\Lab02-UnitTesting\obj\Debug\net7.0\refint\Lab02-UnitTesting.dll
+C:\Users\Student-18\Documents\GitHub\Lab02-UnitTesting\Lab02-UnitTesting\obj\Debug\net7.0\Lab02-UnitTesting.pdb
+C:\Users\Student-18\Documents\GitHub\Lab02-UnitTesting\Lab02-UnitTesting\obj\Debug\net7.0\Lab02-UnitTesting.genruntimeconfig.cache
+C:\Users\Student-18\Documents\GitHub\Lab02-UnitTesting\Lab02-UnitTesting\obj\Debug\net7.0\ref\Lab02-UnitTesting.dll
