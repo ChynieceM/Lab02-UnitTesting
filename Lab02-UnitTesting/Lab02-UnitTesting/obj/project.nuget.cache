@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "5be3Pt+inU/ZRzSbyHAN9FzO4ZlQXsH0fXnzfXiAjB2buaL//Lg8vHpXFSXFyrU+EkroUbfV7cFCa7XQUPfBPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student-18\\Documents\\GitHub\\Lab02-UnitTesting\\Lab02-UnitTesting\\Lab02-UnitTesting\\Lab02-UnitTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student-18\\.nuget\\packages\\microsoft.codecoverage\\17.6.3\\microsoft.codecoverage.17.6.3.nupkg.sha512",
+    "C:\\Users\\Student-18\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.3\\microsoft.net.test.sdk.17.6.3.nupkg.sha512",
+    "C:\\Users\\Student-18\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.3\\microsoft.testplatform.objectmodel.17.6.3.nupkg.sha512",
+    "C:\\Users\\Student-18\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.3\\microsoft.testplatform.testhost.17.6.3.nupkg.sha512",
+    "C:\\Users\\Student-18\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Student-18\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\Student-18\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\Student-18\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.0\\xunit.runner.visualstudio.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
