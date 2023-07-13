@@ -3,7 +3,7 @@ using System.Runtime.CompilerServices;
 
 namespace Lab02_UnitTesting
 {
-    internal class Program
+    public class Program
     {
        
         private static decimal balance = 0m;

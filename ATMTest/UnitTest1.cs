@@ -1,4 +1,6 @@
+using Lab02_UnitTesting;
 using Microsoft.VisualStudio.TestPlatform.TestHost;
+using Program = Lab02_UnitTesting.Program;
 
 namespace ATMTest
 {
@@ -9,7 +11,7 @@ namespace ATMTest
         [Fact]
         public void ViewBalanceShouldReturnStartingBalance()
         {
-            decimal startingBalance = 0m;
+            decimal startingBalance = 200m;
             decimal currentBalance = Program.ViewBalance();
 
             Assert.Equal(startingBalance, currentBalance);
@@ -28,8 +30,8 @@ namespace ATMTest
         [Fact]
         public void WithdrawShouldDecreaseBalance() 
         {
-            decimal withdrawalAmount = 20m;
-            decimal startingBalance = 70m;
+            decimal withdrawalAmount = 50m;
+            decimal startingBalance = 200m;
             decimal expectedBalance = startingBalance - withdrawalAmount;
 
             decimal currentBalance = Program.Withdraw(withdrawalAmount);
