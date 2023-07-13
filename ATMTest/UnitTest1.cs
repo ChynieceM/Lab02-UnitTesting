@@ -8,31 +8,38 @@ namespace ATMTest
 
 
     {
-        [Fact]
-        public void ViewBalanceShouldReturnStartingBalance()
+        [Theory]
+        [InlineData(200, 200)]
+        [InlineData(0, 0)]
+        public void ViewBalanceShouldReturnStartingBalance(decimal startingBalance, decimal currentBalance)
         {
-            decimal startingBalance = 200m;
-            decimal currentBalance = Program.ViewBalance();
+            
+            Program.balance = startingBalance;
 
             Assert.Equal(startingBalance, currentBalance);
         }
-        [Fact]
-        public void DepositShouldIncreaseBalance()
+        [Theory]
+        [InlineData(-100,0)]
+        [InlineData(100,100)]
+        public void DepositShouldIncreaseBalance(decimal depositAmount,  decimal expectedBalance)
         {
-            decimal depositAmount = 200m;
-            decimal startingBalance = 0m;
-            decimal expectedBalance = startingBalance + depositAmount;
 
-            decimal currentBalance = Program.Deposit(depositAmount);
+           // decimal testBalance = startingBalance;
+           //decimal expectedBalance = Program.ViewBalance();
+          // expectedDepositAmount = Program.Deposit(depositAmount);
+          Program.balance = 0m;
+           decimal actualBalance = Program.Deposit(depositAmount);
 
-            Assert.Equal(expectedBalance, currentBalance);
+            Assert.Equal(expectedBalance, actualBalance);
         }
-        [Fact]
-        public void WithdrawShouldDecreaseBalance() 
+        [Theory]
+        [InlineData(100,100)]
+        [InlineData(300, 200)]
+        public void WithdrawShouldDecreaseBalance(decimal withdrawalAmount, decimal expectedBalance) 
         {
-            decimal withdrawalAmount = 50m;
-            decimal startingBalance = 200m;
-            decimal expectedBalance = startingBalance - withdrawalAmount;
+           
+            Program.balance = 200m;
+ 
 
             decimal currentBalance = Program.Withdraw(withdrawalAmount);
             Assert.Equal(expectedBalance, currentBalance);

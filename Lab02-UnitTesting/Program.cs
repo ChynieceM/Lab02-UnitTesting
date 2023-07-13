@@ -6,7 +6,7 @@ namespace Lab02_UnitTesting
     public class Program
     {
        
-        private static decimal balance = 0m;
+        public static decimal balance = 0m;
 
         public static decimal ViewBalance()
         {
@@ -38,7 +38,8 @@ namespace Lab02_UnitTesting
            // decimal depositAmount = decimal.Parse(Console.ReadLine());
             if (amount < 0)
             {
-                Console.WriteLine("Invalid amount");
+                
+                return balance;
                
             }
            else
@@ -48,6 +49,7 @@ namespace Lab02_UnitTesting
                 Console.WriteLine("This is your new balance:" + balance);
                    
             }
+
             return balance;
         }
 
